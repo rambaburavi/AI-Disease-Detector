@@ -88,4 +88,3 @@ File Structure
 ├── label_encoder.pkl
 └── README.md
 ```
-Contributing

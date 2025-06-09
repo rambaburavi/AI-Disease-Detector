@@ -49,8 +49,8 @@ Results
 
 | Model         | Accuracy       |
 | ------------- | -------------- |
-| Random Forest | \~ Your Output |
-| XGBoost       | \~ Your Output |
+| Random Forest | 96%             |
+| XGBoost       | 96%            |
 
 (XGBoost showed better performance and is saved as the final model.)
  Installation
